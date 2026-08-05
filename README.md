@@ -86,7 +86,7 @@ When the script runs successfully, it saves these visualisations to `outputs/`:
 ## How to Run
 
 ```bash
-git clone https://github.com/PrajwalKapnoor/clv-predection
+git clone https://github.com/PrajwalKapnoor/customer_lifetime_value
 cd clv-predection
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
