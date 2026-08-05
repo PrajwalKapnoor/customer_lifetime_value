@@ -83,13 +83,6 @@ When the script runs successfully, it saves these visualisations to `outputs/`:
 - `act3_clv_model_showdown.png`
 - `segment_clv_projection.png`
 
-The project folder also includes exported chart images:
-
-- `where money come from.png`
-- `log transformation.png`
-- `Performance, Fit Quality & Feature Impact.png`
-- `revenu.png`
-
 ## How to Run
 
 ```bash
