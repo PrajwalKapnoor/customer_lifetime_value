@@ -1,1 +1,8 @@
+Note: The original CSV dataset is too large to be directly uploaded to GitHub. 
+Please download the file using one of the links below:
 
+
+
+- Option A (Kaggle): https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+- Option B (UCI): https://archive.ics.uci.edu/dataset/502/online+retail+ii
+- Place `online_retail_II.csv` in the same folder as this notebook.
